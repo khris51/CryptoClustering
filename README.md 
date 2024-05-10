@@ -1,0 +1,36 @@
+# Crypto
+
+
+
+
+## Description
+learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+
+
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+
+
+- [Features](#features)
+- [Tests](#tests)
+
+
+## Installation
+pandas, hvplot,sklearn,Kmeans,PCA, standard scaler
+
+## Usage
+to predict how cryptocurrencies change on a daily basis 
+
+
+
+
+
+## Features
+elbow curves, scatter plots, 
+
+## Tests
+Kmeans, model predict, PCA
+
+
